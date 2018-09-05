@@ -28,4 +28,4 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerRoute(/^https:\/\/mweb-demos.appspot.com\/amp-as-pwa\/index.html/, workbox.strategies.networkFirst({ cacheName: "amp-as-pwa-cache", plugins: [] }), 'GET');
+workbox.routing.registerRoute(/^https:\/\/ampdanna.blogspot.com, workbox.strategies.networkFirst({ cacheName: "amp-as-pwa-cache", plugins: [] }), 'GET');
