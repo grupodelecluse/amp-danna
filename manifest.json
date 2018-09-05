@@ -1,7 +1,7 @@
 {
     "short_name": "AMP as PWA",
     "name": "Sample AMP as PWA News Website",
-    "start_url": "index.html",
+    "start_url": "https://ampdanna.blogspot.com/",
     "icons": [
         {
             "src": "https://3.bp.blogspot.com/-_NeB5xlXzfM/W5AmMZLchBI/AAAAAAAAb8E/U5lKJKeqB6wAtGN5BcFOFAy3JUxpu0qLgCLcBGAs/s1600/android-icon-192x192.png",
