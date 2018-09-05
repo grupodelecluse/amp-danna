@@ -1,0 +1,21 @@
+{
+    "short_name": "AMP as PWA",
+    "name": "Sample AMP as PWA News Website",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "https://3.bp.blogspot.com/-_NeB5xlXzfM/W5AmMZLchBI/AAAAAAAAb8E/U5lKJKeqB6wAtGN5BcFOFAy3JUxpu0qLgCLcBGAs/s1600/android-icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-8Unxx7Fzr6s/W5AmpFVyGNI/AAAAAAAAb8M/A1xeMZ3xsI8OJ2Ob_Bk48evqslGkGw0sACLcBGAs/s1600/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "background_color": "#D6DBDF",
+    "theme_color": "#D6DBDF",
+    "orientation": "portrait",
+    "display": "standalone"
+}
